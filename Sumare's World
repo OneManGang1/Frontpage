@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang= "en-GB">
+<head>
+   <meta charset= "UTF-8">
+   <meta name="description" content="internet shopping">
+   <meta name = "keywords" content="HTML, CSS">
+   <meta name = "author" content="Dr.Dharamdat Sumare">
+   <meta name= "viewport" content="width=divice-width,initial-scale=1.0">
+<title>Sumare's world</title>
+<link rel= "stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="nav">
+    <h1 class= "brand">Sumare's World</h1>
+    <p class= "navlist">Search<input type= "text" placeholder="Enter Product or services or email>
+    <p class= "navlist" ><button><a href= Front_page.html>Home</a></button><button>Sumare's Medical Clinic</button><button><a href= Supermarket.html>Sumare's Supermarket</a></button><button>Sumare's Books Store</button><button>Sumare's Medical Supplies</button><button><a href="C:\Users\pc\Desktop\ds\HTML\Games.html">Games</a></button><button><a href= "Dr_Dharamdat_Sumare _resume.html">About</a></button></p>    
+</div>
+
+<div>
+<h2 style= "color: black; display:block";>Latest</h2>
+<p><marquee behavior = "alternative";><img src = "C:\Users\pc\Desktop\ds\HTML\Image\HTML certificate.png" height= 300px;> I'm the best<img src="C:\Users\pc\Desktop\ds\HTML\Image\HTML advance.png" height= 300px>I'm the best<img src="C:\Users\pc\Desktop\ds\HTML\Image\css.png" height = 300px>I'm the best<img src="C:\Users\pc\Desktop\ds\HTML\Image\Certificate for building a web site.png"  height= 300px>I'm the best<img src="C:\Users\pc\Desktop\ds\HTML\Image\Java.png" height= 300px></marquee></p>
+</div>
+
+<div class= "products_and_prices" style= "background-color:skyblue; heigh:1000%;width:50%; display:inline-block>
+</div>
+
+</body>
+</Html>
+   
